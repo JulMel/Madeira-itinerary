@@ -1,0 +1,25 @@
+.one-day {
+  width: 500px;
+  text-align: center;
+  color: antiquewhite;
+  background-color: #28464b;
+  box-shadow: 0px 0px 15px #dd947c;
+  padding: 15px;
+}
+
+.one-day img {
+  width: 500px;
+  height: 400px;
+}
+
+.one-day h2 {
+  border-bottom: 1px solid #dd947c;
+}
+
+.one-day button {
+  background-color: transparent;
+  border: none;
+  color: #dd947c;
+  font-size: 30px;
+  cursor: pointer;
+}
